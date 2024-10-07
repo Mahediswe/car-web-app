@@ -1,0 +1,6 @@
+.bg{
+    background-image: url(./assets/homecar.jpg);
+    height: 660px;
+    width: 660px;
+    background-size: cover;
+}
